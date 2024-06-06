@@ -9,10 +9,7 @@
   <a href="https://github.com/hamzaalshammaa">
     <img src="https://img.shields.io/github/followers/hamzaalshammaa?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social" alt="Twitter Followers" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/hamza-alshammaa">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
@@ -21,14 +18,11 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Hamza9ayman@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/hamza-alshammaa">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
